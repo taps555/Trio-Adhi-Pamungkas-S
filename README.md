@@ -21,7 +21,6 @@ I’m a beginner programmer passionate about learning new technologies and impro
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=light)
 
 ## 🌟 My Favorite Quotes
 
